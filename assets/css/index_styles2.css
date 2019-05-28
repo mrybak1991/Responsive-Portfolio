@@ -194,3 +194,117 @@ h2 {
         color: white;
        
     }
+
+    @media screen and (max-width: 980px){
+        .Large_Container{
+            width: 100%;
+            height: 100%
+        }
+    
+    }
+
+    @media screen and (max-width: 768px){
+        .Header_Banner{
+            width: 100%;
+        }
+    
+        .My_Name{
+            width: 30%;
+            margin-left: 10px;
+        }
+    
+        .Second_Page{
+            width: 80%;
+            margin-bottom: 40px;
+        }
+    
+        footer{
+            margin-top: 20px;
+        }
+    
+        .Big_Box2{
+            margin-bottom: 100px;
+        
+        }
+
+        .first_image{
+            width: 50%;
+            margin-right: 10px;
+        }
+
+        .second_image{
+            width: 50%;
+        }
+
+        .third_image{
+            width: 50%;
+        }
+
+        .fourth_image{
+            width: 50%;
+        }
+
+        .fifth_image{
+            width: 50%;
+        }
+
+        .text-block1{
+            width: 150px;
+        }
+
+        .text-block2{
+            width: 150px;
+        }
+
+        .text-block3{
+            width: 150px;
+        }
+
+        .text-block4{
+            width: 150px;
+        }
+
+        .text-block5{
+            width: 150px;
+        }
+    }
+
+    @media screen and (max-width: 640px){
+        .My_Name{
+            width: 100%;
+        }
+    
+        .tabs{
+            width: 100%;
+            text-align: center;
+        }
+    
+        img{
+            width: 100%;
+        }
+    
+        .Second_Page{
+            height: 1000px;
+        }
+
+        .text-block1{
+            width: 100%;
+        }
+
+        .text-block2{
+            width: 100%;
+        }
+
+        .text-block3{
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .text-block4{
+            width: 100%;
+        }
+
+        .text-block5{
+            width: 100%;
+        }
+    }
